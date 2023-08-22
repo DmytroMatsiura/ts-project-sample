@@ -1,0 +1,5 @@
+export { Index as GetDevicesDTO } from '@protots/apps/gs/request/device/index'
+export { Update as UpdateDeviceDTO } from '@protots/apps/gs/request/device/update'
+export { Update_Data as UpdateDeviceDataDTO } from '@protots/apps/gs/request/device/update'
+export { Remove as RemoveDeviceDTO } from '@protots/apps/gs/request/device/remove'
+export { BulkBatteryUpdate as BulkBatteryUpdateDTO } from '@protots/apps/gs/request/device/bulk_battery_update'
